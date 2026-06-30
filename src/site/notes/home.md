@@ -8,6 +8,7 @@
 
 
 - mappa dei [[📍REDANIA/📍REDANIA\|📍REDANIA]]
+- [[🧌 PNG/Bria Daiquiri\|Bria Daiquiri]]
 - pg tutti
 - pantheon di Dei 
 - scrivere le sessioni
