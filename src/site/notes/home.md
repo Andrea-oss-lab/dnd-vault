@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","dg-note-properties":{"banner":"immagini/misc/banner.webp","banner-height":310,"cssclasses":["title-white"]}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{"banner":"immagini/misc/banner.webp","banner-height":310,"cssclasses":["title-white"]}}
 ---
 
 ---
